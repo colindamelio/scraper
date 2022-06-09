@@ -1,0 +1,17 @@
+{
+  "name": "hyp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "colindamelio",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1",
+    "node-fetch": "2.6.1",
+    "nodemon": "^2.0.16"
+  }
+}
